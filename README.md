@@ -1,6 +1,6 @@
 # so_long-42
 
-![so_long Banner](https://user-images.githubusercontent.com/yourusername/so_long_banner.png)
+![so_long Banner]([https://user-images.githubusercontent.com/yourusername/so_long_banner.png](https://github.com/GhaithAlhajaj/so_long-42/blob/main/img/xpm/charac.xpm))
 
 **so_long** is a 2D game project developed as part of the **42 School** curriculum. The objective is to create a simple game where the player navigates through a map, collects items, and reaches an exit, all while avoiding obstacles. This project emphasizes understanding of graphics programming, file parsing, and algorithmic problem-solving using the **MiniLibX** graphics library.
 
